@@ -74,7 +74,6 @@ ID,Gender,Sport_Type,Eating_Disorder_Risk,BMI,Age,Division_Region,Years_Played,H
 73,Male,Aesthetic,High,28.1,20,South,2,12.0,No
 74,Female,Endurance,Low,20.0,21,Midwest,4,17.5,Yes
 75,Male,Ball_Sport,None,25.7,19,West,1,10.1,No
-ID,Gender,Sport_Type,Eating_Disorder_Risk,BMI,Age,Division_Region,Years_Played,Hours_Exercise_Per_Week,Dieting_History
 76,Female,Endurance,Low,21.3,18,East,2,12.8,Yes
 77,Male,Power_Sport,None,26.9,21,South,4,15.3,No
 78,Female,Ball_Sport,Low,22.2,20,Midwest,3,17.1,Yes
@@ -150,7 +149,6 @@ ID,Gender,Sport_Type,Eating_Disorder_Risk,BMI,Age,Division_Region,Years_Played,H
 148,Female,Aesthetic,High,19.6,19,East,4,17.6,Yes
 149,Male,Endurance,Low,24.0,21,South,3,15.5,No
 150,Female,Ball_Sport,Low,22.1,18,Midwest,1,10.4,Yes
-ID,Gender,Sport_Type,Eating_Disorder_Risk,BMI,Age,Division_Region,Years_Played,Hours_Exercise_Per_Week,Dieting_History
 151,Male,Power_Sport,None,26.9,20,West,5,17.2,No
 152,Female,Endurance,Low,21.3,19,East,2,13.1,Yes
 153,Male,Aesthetic,High,27.6,22,South,4,18.4,No
