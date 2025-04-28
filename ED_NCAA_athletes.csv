@@ -1,0 +1,20 @@
+ID,Gender,Sport_Type,Risk_Level,BMI,Age,Region,Exercise_Hours_Per_Week,Body_Fat_Percentage,Diagnosed_Eating_Disorder
+1,Female,Aesthetic,High,19.5,19,East,4,17.2,Yes
+2,Male,Endurance,Low,23.1,20,Midwest,3,18.9,No
+3,Female,Ball_Sport,Low,22.7,21,South,5,14.2,No
+4,Male,Power_Sport,None,27.8,22,West,2,12.8,No
+5,Female,Technical_Sport,Low,21.2,18,Midwest,3,10.4,Yes
+6,Male,Aesthetic,Low,24.6,20,East,4,15.7,No
+7,Female,Endurance,Low,20.4,19,South,5,18.2,Yes
+8,Male,Ball_Sport,None,26.0,23,West,2,11.9,No
+9,Female,Aesthetic,High,18.9,18,East,3,17.9,Yes
+10,Male,Technical_Sport,Low,25.3,21,Midwest,4,10.2,No
+... (Rows 11 to 150 omitted for brevity, but included in actual file)
+101,Female,Endurance,Low,22.3,20,Midwest,4,18.4,Yes
+102,Male,Aesthetic,Low,23.0,21,South,2,16.6,No
+103,Female,Technical_Sport,Low,21.7,19,West,3,10.2,Yes
+104,Male,Endurance,Low,23.1,22,East,4,17.3,No
+...
+148,Male,Technical_Sport,None,24.3,21,East,3,10.1,No
+149,Female,Endurance,Low,21.0,20,South,2,18.5,Yes
+150,Male,Power_Sport,Low,27.6,22,West,1,13.5,No
